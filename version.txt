@@ -1,6 +1,6 @@
 [NewVer]
 Ver=+++1.1+++
-filename1=---f1半两.txt---f1
+filename1=---f1banliang.txt---f1
 CheckCode1=---1https://i-220.wwentua.com:446/03301800171716232bb/2024/03/30/f6e3e53b9c7a4d2c2e2262ed88bb80d6.txt?st=B1xsbB8FNaCBHFM9h1630A&e=1711797600&b=UuUBjAOJWbhUuQT2BnhTIwMuWXE_c&fi=171716232&pid=113-248-1-142&up=2&mp=0&co=0---1
 filename2=---f2Code32.txt---f2
 CheckCode2=---2https://i-120.wwentua.com:446/03301800171714051bb/2024/03/30/fbef0dd9bf5cf0abf8d2b44603f09241.txt?st=IkqQsppfiKN7VDGYqSHVkQ&e=1711796577&b=BBVbNANnVzdWMFE1B3lSIgglDSU_c&fi=171714051&pid=113-248-1-142&up=2&mp=0&co=0---2
