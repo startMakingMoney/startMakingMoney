@@ -1,3 +1,4 @@
 [NewVer]
 Ver=+++1.0+++
-CheckCode1=---https://i-930.wwentua.com:446/03301000171637009bb/2024/03/30/e1ee049df7deff56777e68a35d8d71d2.exe?st=76Cro-1AryVijf1fgTM3xQ&e=1711768005&b=VuFa11fdB_bZWu1_btAnxTMlZ7CDE_c&fi=171637009&pid=113-248-1-142&up=2&mp=0&co=0---
+CheckCode1=---https://i-930.wwentua.com:446/03301800171637009bb/2024/03/30/e1ee049df7deff56777e68a35d8d71d2.exe?st=ViEFIBC6nj-I8LuWV3-X6Q&e=1711795284&b=BrENgAGLA_bID7gDyBnhSMwMuXmc_c&fi=171637009&pid=113-248-1-142&up=2&mp=0&co=0---
+
