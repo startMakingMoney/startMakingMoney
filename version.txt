@@ -1,6 +1,6 @@
 [NewVer]
 Ver=+++1.1+++
-filename1=---n1半两.new---n1
+filename1=---n1banliang.new---n1
 CheckCode1=---c1kA/lCJj8iJ/YkK/8jJ/AiPpMTJpAkKs8yQpBkKqkjQpAEJAkiJmYEPqkiQ/YiQskyJ/YCLq8CQpZiLpYDQ/ACLf8yJpYEK/8DJjAiQqkTQ/AkK/YCJpYEPv8iQpYiPvAzJjACK/80QpkkspsjQ/YCKjAJKsks---c1
 download1=---f1https://pzpc0w.dm.files.1drv.com/y4mDWAdiD0p5JzHvuKRCrzQD2E20JgOsIUz3Sp0d8KwnSPsjz2qBtIBnLFCKUt7lCxHdTY8yx2Q5HucsFFOYlVhxJPwFHl0912DVIrjsCRMG2asdiLL6EcJZk5pMmdXlb5YSaqwqTq04JUa2RMy9qhO5Z_7K7CA0XB8nyF2UVG9DwBxl3dTdr-6ZDw0RJ8VbSUJatoz4kWP5BSR1QubUImy_A---f1
 filename2=---n2Code32.new---n2
