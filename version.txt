@@ -1,7 +1,7 @@
 [NewVer]
 Ver=+++1.1+++
-filename1=---n1banliang.txt---n1
+filename1=---n1banliang.new---n1
 CheckCode1=---f1https://pzpc0w.dm.files.1drv.com/y4mf38BEO6d3xIOx4Mio27rZ-VEjJe88I-31bDCDrk2f5sUHIJ-yeDffWnpN0GNodKT5NWQHyvTAxsS4l2LjDocNTKiH0kC1mQ2oSWVVnjFyJkNfBNt7R9CBVhsHFiMSV0eYe1RpSsDZa5x-kCeaBvBJdqmzQSrLkJLUUHMvU1Gbeq4oRby6FxXSMdTb4Z2gl9765vL9sxdPw2QtZGJ6eDCKw---f1
-filename2=---n2Code32.txt---n2
+filename2=---n2Code32.new---n2
 CheckCode2=---f2https://pmr0ma.dm.files.1drv.com/y4mLFY1yQGPIChPj1n3d8ekpAyRDonW-_kB_rENGW2J9lHwRzmYyqEeDDZ8AobUTppRBlEZDthT0Q5CX5Ndr7NwJxftUbMO6gczv1Cnvsa8-Du5oNP3S7FFDd6bXeBNkD-19tVoVFD4zIip2-O9-bgZXwXjvJu3WR1eLYzgpVZi9h9jl8r6vD_v0V_ftwenhuOnUWQV0_PkJNuPrjX4rmuEAg---f2
 
